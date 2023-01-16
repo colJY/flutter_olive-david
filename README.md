@@ -1,6 +1,6 @@
 # oliveanddavid
 
-![20230117001419](https://user-images.githubusercontent.com/94308690/212711213-a56acf46-6365-4ba1-8561-927beac959c3.png)
+![20230117001602](https://user-images.githubusercontent.com/94308690/212711564-39e9c1b7-87f2-43ae-8729-adfce906acef.png)
 
 ## Getting Started
 
